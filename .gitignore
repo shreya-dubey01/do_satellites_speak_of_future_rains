@@ -1,0 +1,9 @@
+# Ignore the data folder entirely
+data/
+
+# Or ignore specific large CSV files
+*.csv
+
+# Ignore the models
+*.json
+*.bin
